@@ -1,0 +1,13 @@
+/* Remova isto: */
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
+
+/* Pode começar do zero */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
